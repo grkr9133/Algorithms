@@ -1,0 +1,1 @@
+This file contains all differenes between all the algorithms.
