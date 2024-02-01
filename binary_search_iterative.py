@@ -1,3 +1,9 @@
+"""
+Author: Radhakrishna Rakesh Grandi
+Version:1.0
+Publish: January 31,2024
+"""
+
 loc=-1  #initially we assume target location as -1
 def binary_search(list,target):     #takes the list and target as parameters
     low=0   #initially lowerbound will be 0
